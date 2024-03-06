@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - engel
+  - karakter
+  - teker
+  - teker1
+  - teker2
+  - teker3
+  - +15
+  - -15
+  - +10
+  - -10
+  - arac
+  - kalkantrigger
+  - shield
+  - benzin
+  - kan5
+  - kan4
+  - kan3
+  - kan2
+  - kan1
+  - copadam5
+  - copadam4
+  - copadam3
+  - copadam2
+  - copadam1
+  - altinbenzin
+  - kalkanefekt
+  - kalkanefekt2
+  - kalkanefekt3
+  - finish
+  - LevelController
+  - asagiengel
+  - +5
+  - -5
+  - +20
+  - -20
+  - +25
+  - -25
+  - karsitok
+  - roket
+  - coin
+  - adam
+  - spot
+  - kaporta
+  - palet
+  - menuSesi
+  - roketsesi
+  - almasesi
+  - losesesi
+  - levelupsesi
+  - coinsesi
+  - patlamasesi
+  - spreysesi
+  - gerisayimsesi
+  - gerisayimsesiturbo
+  - kansesi
+  - A
+  - motorsesi
+  - satissesi
+  - arkaplansesi
+  - rewardparticle1
+  - rewardparticle2
+  - AddControl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
